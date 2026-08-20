@@ -1,0 +1,12 @@
+﻿.vscode
+build
+build-msvc
+
+# 安装程序产物
+*.exe
+
+# 签名证书
+*.cer
+
+# 便签数据（个人隐私）
+notes_data.json
